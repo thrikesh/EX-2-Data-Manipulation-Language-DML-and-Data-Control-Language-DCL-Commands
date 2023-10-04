@@ -21,7 +21,9 @@ update manager set salary=salary+(salary*0.10);
 
 # OUTPUT:
 <br>
-![image](https://github.com/thrikesh/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119576222/7f282d8d-432e-472f-b9c5-e9e5526d19dc)
+![271218363-1d66948b-7919-4849-81d5-c2a58efa216c](https://github.com/thrikesh/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119576222/62b9c8e4-c0dc-434b-a6d6-04147d0175cf)
+
+
 
 
 Q2) Delete the records from manager table where the salary less than 2750.
